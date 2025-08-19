@@ -16,7 +16,7 @@ Repository layout:
 Snapshots store file-to-chunk mappings in SQLite for quick restores and integrity checks.
 
 License: MIT
-Author: YourName
+Author: Shahid Ali
 """
 
 from __future__ import annotations
@@ -596,3 +596,4 @@ def main(argv: Optional[List[str]] = None) -> int:
 
 if __name__ == "__main__":
     sys.exit(main())
+
