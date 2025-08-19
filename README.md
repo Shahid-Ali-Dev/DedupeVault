@@ -25,7 +25,7 @@ There may be bugs or edge cases not covered. Use at your own risk and always kee
 ### Requirements
 - **Python 3.10+**
 - Works on **Windows, macOS, Linux**
-- 
+  
 ### 📦 Usage
 - Initialize a Repository
 - python dedupe_backup.py init /path/to/repo
